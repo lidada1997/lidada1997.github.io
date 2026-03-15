@@ -9,6 +9,7 @@
 **自动化数据分析：从原始数据到专业报告**
 
 [![GitHub](https://img.shields.io/badge/GitHub-项目地址-black?logo=github)](https://github.com/lidada1997/multi-agent-data-analysis)
+[![在线演示](https://img.shields.io/badge/在线演示-Streamlit-red?logo=streamlit)](https://multi-agent-analysis.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Web界面-red?logo=streamlit)](https://streamlit.io/)
 
@@ -116,6 +117,7 @@
 **微服务架构的财务管理平台**
 
 [![GitHub](https://img.shields.io/badge/GitHub-项目地址-black?logo=github)](https://github.com/lidada1997/sheep-village-finance-py)
+[![在线演示](https://img.shields.io/badge/在线演示-Streamlit-red?logo=streamlit)](https://sheep-village-finance.streamlit.app/)
 
 </div>
 

@@ -42,7 +42,7 @@ skills = {
 
 **技术栈：** Python • Pandas • Streamlit • Dify • Plotly
 
-[👉 在线演示](#) | [📂 GitHub](https://github.com/lidada1997/multi-agent-data-analysis)
+[👉 在线演示](https://multi-agent-analysis.streamlit.app/) | [📂 GitHub](https://github.com/lidada1997/multi-agent-data-analysis)
 
 ---
 
@@ -70,7 +70,7 @@ skills = {
 
 **技术栈：** Python • FastAPI • PostgreSQL • Docker
 
-[📂 GitHub](https://github.com/lidada1997/sheep-village-finance-py)
+[👉 在线演示](https://sheep-village-finance.streamlit.app/) | [📂 GitHub](https://github.com/lidada1997/sheep-village-finance-py)
 
 ---
 
