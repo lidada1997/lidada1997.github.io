@@ -76,12 +76,12 @@ skills = {
 
 ## 📬 联系方式
 
-- **GitHub**: [@lidada1997](https://github.com/lidada1997)
-- **Email**: lidada1997@qq.com
-- **公众号**: 羊村技术圈
+- **GitHub**: [github.com/lidada1997](https://github.com/lidada1997)
+- **Email**: 1270577617@qq.com
+- **公众号**: 小李子和小刘子
 
 ---
 
 *持续更新中...*
 
-*最后更新：2025年3月*
+*最后更新：2026年3月*
